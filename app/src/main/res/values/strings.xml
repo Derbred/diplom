@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level_1">Уровень: 1</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="register">Регистрация</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="registred">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="loginNow">Нажми чтобы войти</string>
+    <string name="registerNow">Нажмите чтобы зарегистрироваться</string>
+
+</resources>
